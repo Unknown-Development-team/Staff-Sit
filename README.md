@@ -6,7 +6,7 @@ Usage:
 
 /staffsit (id's) This is used to start a new staff sit with the specified players and teleports all specified server id's to the same bucket. EX: /staffsit 1 2 3 4
 
-/resetbuckets (id's) This is used to reset the specified players buckets back to 0 (Default game instance), Useful for when a staffsit is over. EX: /staffsit 1 2 3 4
+/resetbuckets (id's) This is used to reset the specified players buckets back to 0 (Default game instance), Useful for when a staffsit is over. EX: /resetbuckets 1 2 3 4
 
 This script uses discord id's from badgers scripts to read your discord roles and allow the specified roles to use the command.
 
