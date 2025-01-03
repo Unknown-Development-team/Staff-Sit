@@ -13,3 +13,5 @@ This script uses discord id's from badgers scripts to read your discord roles an
 DEPENDICIES: 
 Badger Discord API
 Badger DiscordAcePerms 
+
+-Unknown Development Team (Discord:discord.gg/te9bNtseMS)
