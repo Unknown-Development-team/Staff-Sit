@@ -10,6 +10,8 @@ Usage:
 
 This script uses discord id's from badgers scripts to read your discord roles and allow the specified roles to use the command.
 
+This script is standalone. (We are working on using QB-Target to select the players you want with third eye to start a staff sit.
+
 DEPENDICIES: 
 Badger Discord API
 Badger DiscordAcePerms 
